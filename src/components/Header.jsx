@@ -13,6 +13,9 @@ const Header = () => {
                     <p style={{ fontSize: '14px', color: 'var(--text-muted)', fontWeight: '500', marginTop: '4px', letterSpacing: '1px' }}>
                         CLASIFICACIÓN HISTÓRICA DE GOLEADORES
                     </p>
+                    <p style={{ fontSize: '11px', color: 'var(--primary)', fontWeight: '600', marginTop: '2px', opacity: 0.8 }}>
+                        ÚLTIMA ACTUALIZACIÓN: 25/02/2026 - 19:44
+                    </p>
                 </div>
             </div>
         </header>
